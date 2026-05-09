@@ -1,0 +1,19 @@
+.container{
+background-color: white;
+  padding: 40px;
+  border-radius: 8px;      /* Rounded corners */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Subtle "lifted" shadow */
+  width: 100%;
+  max-width: 400px;        /* Keeps the box from getting too wide */
+  text-align: center;
+}
+
+.signup-link{
+  background-color: white;
+  padding: 40px;
+  border-radius: 8px;      /* Rounded corners */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Subtle "lifted" shadow */
+  width: 100%;
+  max-width: 400px;        /* Keeps the box from getting too wide */
+  text-align: center;
+}
